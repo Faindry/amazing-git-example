@@ -19,6 +19,7 @@
 	    Diego Alejandro Ramirez Vargas
 	    David Francisco Calles
 		Juan Sebastian Casas
+	Faindry Julieth Monroy
 """
 
 """
